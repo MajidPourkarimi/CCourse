@@ -1,0 +1,14 @@
+﻿'StrOct07.exe' (Win32): Loaded 'D:\Programming\C\C Institution\211007\StrOct07\Debug\StrOct07.exe'. Symbols loaded.
+'StrOct07.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'StrOct07.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'StrOct07.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'StrOct07.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'StrOct07.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x37b8 has exited with code 0 (0x0).
+'StrOct07.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'StrOct07.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'StrOct07.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x45fc has exited with code 0 (0x0).
+The thread 0x33e8 has exited with code 0 (0x0).
+The thread 0x4994 has exited with code 0 (0x0).
+The program '[18068] StrOct07.exe' has exited with code 0 (0x0).
