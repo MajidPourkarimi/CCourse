@@ -177,7 +177,7 @@ int main()
 	printf("\"ozkaya\"\n"); //karakter sabitlerine ornek
 	printf("%dYavuz\n", 4);
 	printf("%3dYavuz\n", 4);
-	printf("%-3dYavuz\n", 4);
+	printf("%-12Yavuz\n", 4);
 
 
 
